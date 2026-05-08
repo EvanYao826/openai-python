@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.36.1 (2026-05-08)
+
+Full Changelog: [v2.36.0...v2.36.1](https://github.com/openai/openai-python/compare/v2.36.0...v2.36.1)
+
+### Bug Fixes
+
+* **client:** add missing f-string prefix in file type error message ([c85ebd9](https://github.com/openai/openai-python/commit/c85ebd935cb4b80e7e97ce255437684f6411fb00))
+
 ## 2.36.0 (2026-05-07)
 
 Full Changelog: [v2.35.1...v2.36.0](https://github.com/openai/openai-python/compare/v2.35.1...v2.36.0)
